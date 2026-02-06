@@ -47,14 +47,16 @@
   <tr>
     <th>字幕库</th>
     <th>SubHD</th>
-    <th>OpenSubtitles ass格式</th>
-    <th>OpenSubtitles srt 格式</th>
+    <th>射手网(伪)</th>
+    <th>OpenSubtitles 蓝光版本</th>
+    <th>OpenSubtitles WEB版本</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org/detail/218189.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.tv/a/595598"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://www.opensubtitles.org/en/subtitles/13271330/sorry-baby-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
-    <td><a href="https://www.opensubtitles.org/en/subtitles/13271335/sorry-baby-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/226088.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/yIMkZr"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://2.assrt.net/xml/sub/668/668633.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13557282/sorry-baby-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13557276/sorry-baby-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
 </table>
 
